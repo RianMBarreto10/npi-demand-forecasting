@@ -220,7 +220,7 @@ N_SIMILAR             = 5      # sibling SKUs for cold start inheritance
 
 Full derivations and the academic rationale for every design choice are covered in the companion Medium article:
 
-📄 **[Why Your NPI Demand Forecast Will Always Be Wrong — and How to Fix It](https://medium.com/@yourusername)**
+📄 **[Why Your NPI Demand Forecast Will Always Be Wrong — and How to Fix It](https://medium.com/@rianbarreto_ml/i-built-a-production-grade-npi-demand-forecasting-framework-as-a-math-intern-fd4fe7a7aa9e)**
 
 ---
 
